@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ffccbf8b-4b32-41a6-bba0-400fa5d2cbfa" name="默认的" comment="" />
+    <list default="true" id="ffccbf8b-4b32-41a6-bba0-400fa5d2cbfa" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +17,9 @@
     </option>
   </component>
   <component name="GOROOT" path="C:\Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="GoLibraries">
     <option name="indexEntireGoPath" value="false" />
   </component>
@@ -31,13 +36,22 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Go 构建.go build GoAlgorithm/LeetCode/roamnToInt">
+  <component name="RunManager" selected="Go 构建.go build GoAlgorithm/algorithm">
     <configuration name="go build GoAlgorithm/GitHub/strStr" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoAlgorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
       <filePath value="$PROJECT_DIR$/GitHub/strStr/main.go" />
       <package value="GoAlgorithm/GitHub/strStr" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build GoAlgorithm/LeetCode/isPalindrome-9" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoAlgorithm" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/LeetCode/isPalindrome-9/main.go" />
+      <package value="GoAlgorithm/LeetCode/isPalindrome-9" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -70,8 +84,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/roamnToInt" />
         <item itemvalue="Go 构建.go build GoAlgorithm/algorithm" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/isPalindrome-9" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/roamnToInt" />
       </list>
     </recent_temporary>
   </component>
@@ -83,42 +98,46 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="172" key="GridCell.Tab.0.bottom" timestamp="1602052175776">
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="172" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602052175776" />
-    <state width="1877" height="172" key="GridCell.Tab.0.center" timestamp="1602052175776">
+    <state width="1877" height="328" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.0.center" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="172" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602052175776" />
-    <state width="1877" height="172" key="GridCell.Tab.0.left" timestamp="1602052175776">
+    <state width="1877" height="328" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.0.left" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="172" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602052175776" />
-    <state width="1877" height="172" key="GridCell.Tab.0.right" timestamp="1602052175776">
+    <state width="1877" height="328" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.0.right" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="172" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602052175776" />
-    <state width="1877" height="260" key="GridCell.Tab.1.bottom" timestamp="1601992076263">
+    <state width="1877" height="328" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.1.bottom" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601992076263" />
-    <state width="1877" height="260" key="GridCell.Tab.1.center" timestamp="1601992076263">
+    <state width="1877" height="328" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.1.center" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601992076263" />
-    <state width="1877" height="260" key="GridCell.Tab.1.left" timestamp="1601992076263">
+    <state width="1877" height="328" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.1.left" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601992076263" />
-    <state width="1877" height="260" key="GridCell.Tab.1.right" timestamp="1601992076263">
+    <state width="1877" height="328" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
+    <state width="1877" height="328" key="GridCell.Tab.1.right" timestamp="1602081061639">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="260" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601992076263" />
+    <state width="1877" height="328" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081061639" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1601985181902">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state x="2381" y="164" key="SettingsEditor/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601985181902" />
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2" timestamp="1602081028111">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="252" key="Vcs.Push.Dialog.v2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602081028111" />
     <state width="968" height="528" key="XDebugger.FullValuePopup" timestamp="1601904096051">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
