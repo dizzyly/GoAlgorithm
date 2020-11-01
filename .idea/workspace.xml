@@ -3,8 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ffccbf8b-4b32-41a6-bba0-400fa5d2cbfa" name="默认的" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/removeDuplicates-26/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/removeDuplicates-26/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algorithm/tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/tree.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/LinkedList/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/LinkedList/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataStructure/tree.go" beforeDir="false" afterPath="$PROJECT_DIR$/DataStructure/Tree/tree.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,62 +38,71 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Go 构建.go build GoAlgorithm/DataStructure/LinkedList">
-    <configuration name="go build GoAlgorithm/DataStructure/LinkedList" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\GoProject\GoAlgorithm\LeetCode" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\GoProject\GoAlgorithm\LeetCode\DoublePointer" />
+      <recent name="D:\GoProject\GoAlgorithm\DataStructure\Tree" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go 构建.go build GoAlgorithm/LeetCode/RandomizedCollection-381">
+    <configuration name="go build GoAlgorithm/LeetCode/LinkedList/mergeTwoLists-21" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoAlgorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/DataStructure/LinkedList/main.go" />
-      <package value="GoAlgorithm/DataStructure/LinkedList" />
+      <filePath value="$PROJECT_DIR$/LeetCode/LinkedList/mergeTwoLists-21/main.go" />
+      <package value="GoAlgorithm/LeetCode/LinkedList/mergeTwoLists-21" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build GoAlgorithm/LeetCode" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build GoAlgorithm/LeetCode/LinkedList/removeNthFromEnd-19" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoAlgorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/test.go" />
-      <package value="GoAlgorithm/LeetCode" />
+      <filePath value="$PROJECT_DIR$/LeetCode/LinkedList/removeNthFromEnd-19/main.go" />
+      <package value="GoAlgorithm/LeetCode/LinkedList/removeNthFromEnd-19" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build GoAlgorithm/LeetCode/longestCommonPrefix-14" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build GoAlgorithm/LeetCode/RandomizedCollection-381" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoAlgorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/longestCommonPrefix-14/main.go" />
-      <package value="GoAlgorithm/LeetCode/longestCommonPrefix-14" />
+      <filePath value="$PROJECT_DIR$/LeetCode/RandomizedCollection-381/main.go" />
+      <package value="GoAlgorithm/LeetCode/RandomizedCollection-381" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build GoAlgorithm/LeetCode/removeDuplicates-26" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build GoAlgorithm/LeetCode/islandPerimeter-463" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoAlgorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/LeetCode/removeDuplicates-26/main.go" />
-      <package value="GoAlgorithm/LeetCode/removeDuplicates-26" />
+      <filePath value="$PROJECT_DIR$/LeetCode/islandPerimeter-463/main.go" />
+      <package value="GoAlgorithm/LeetCode/islandPerimeter-463" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
-    <configuration name="go build GoAlgorithm/algorithm" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+    <configuration name="go build GoAlgorithm/LeetCode/wordBreak-140" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoAlgorithm" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="PACKAGE" />
-      <filePath value="$PROJECT_DIR$/algorithm/tree.go" />
-      <package value="GoAlgorithm/algorithm" />
+      <filePath value="$PROJECT_DIR$/LeetCode/wordBreak-140/main.go" />
+      <package value="GoAlgorithm/LeetCode/wordBreak-140" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Go 构建.go build GoAlgorithm/DataStructure/LinkedList" />
-        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode" />
-        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/removeDuplicates-26" />
-        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/longestCommonPrefix-14" />
-        <item itemvalue="Go 构建.go build GoAlgorithm/algorithm" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/RandomizedCollection-381" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/wordBreak-140" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/LinkedList/mergeTwoLists-21" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/LinkedList/removeNthFromEnd-19" />
+        <item itemvalue="Go 构建.go build GoAlgorithm/LeetCode/islandPerimeter-463" />
       </list>
     </recent_temporary>
   </component>
@@ -105,38 +114,50 @@
     <integration-enabled>true</integration-enabled>
   </component>
   <component name="WindowStateProjectService">
-    <state width="1877" height="328" key="GridCell.Tab.0.bottom" timestamp="1602253725643">
+    <state x="2569" y="80" key="CommitChangelistDialog2" timestamp="1604062592248">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.0.center" timestamp="1602253725643">
+    <state x="2569" y="80" key="CommitChangelistDialog2/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604062592248" />
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom" timestamp="1604236815225">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.0.left" timestamp="1602253725643">
+    <state width="1493" height="328" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="378" key="GridCell.Tab.0.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815225" />
+    <state width="1877" height="378" key="GridCell.Tab.0.center" timestamp="1604236815225">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.0.right" timestamp="1602253725643">
+    <state width="1493" height="328" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="378" key="GridCell.Tab.0.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815225" />
+    <state width="1877" height="378" key="GridCell.Tab.0.left" timestamp="1604236815225">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.1.bottom" timestamp="1602253725643">
+    <state width="1493" height="328" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="378" key="GridCell.Tab.0.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815225" />
+    <state width="1877" height="378" key="GridCell.Tab.0.right" timestamp="1604236815225">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.1.center" timestamp="1602253725643">
+    <state width="1493" height="328" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="378" key="GridCell.Tab.0.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815225" />
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom" timestamp="1604236815663">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.1.left" timestamp="1602253725643">
+    <state width="1493" height="328" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="341" key="GridCell.Tab.1.bottom/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815663" />
+    <state width="1877" height="341" key="GridCell.Tab.1.center" timestamp="1604236815663">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
-    <state width="1877" height="328" key="GridCell.Tab.1.right" timestamp="1602253725643">
+    <state width="1493" height="328" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="341" key="GridCell.Tab.1.center/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815663" />
+    <state width="1877" height="341" key="GridCell.Tab.1.left" timestamp="1604236815663">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="328" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1602253725643" />
+    <state width="1493" height="328" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="341" key="GridCell.Tab.1.left/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815663" />
+    <state width="1877" height="341" key="GridCell.Tab.1.right" timestamp="1604236815663">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1493" height="328" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@0.0.1536.824" timestamp="1604131505664" />
+    <state width="1877" height="341" key="GridCell.Tab.1.right/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604236815663" />
     <state x="2381" y="164" key="SettingsEditor" timestamp="1601985181902">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
@@ -149,10 +170,10 @@
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
     <state width="968" height="528" key="XDebugger.FullValuePopup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601904096051" />
-    <state x="2543" y="225" key="search.everywhere.popup" timestamp="1601889754684">
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1604135383720">
       <screen x="1920" y="0" width="1920" height="1040" />
     </state>
-    <state x="2543" y="225" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1601889754684" />
+    <state x="2543" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1604135383720" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -163,9 +184,14 @@
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DlvLineBreakpoint">
-          <url>file://$PROJECT_DIR$/DataStructure/LinkedList/main.go</url>
-          <line>129</line>
-          <option name="timeStamp" value="6" />
+          <url>file://$PROJECT_DIR$/LeetCode/sumNumbers-129/main.go</url>
+          <line>28</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/LeetCode/RandomizedCollection-381/main.go</url>
+          <line>36</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
